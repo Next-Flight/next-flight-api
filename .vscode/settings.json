@@ -1,0 +1,10 @@
+{
+  "eslint.workingDirectories": [
+    "./projects/components"
+  ],
+  "eslint.codeActionsOnSave.mode": "problems",
+  "editor.codeActionsOnSave": {
+    "source.fixAll.eslint": true 
+  },
+  "debug.javascript.unmapMissingSources": true
+}
